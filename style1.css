@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+}
+
+canvas {
+    border: 3px solid #fff202;
+    border-radius: 25px;
+    background: url('image.png') no-repeat center center;
+    background-size: cover;
+}
